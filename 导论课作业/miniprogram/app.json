@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "邮我记账",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "blue"
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
+}
